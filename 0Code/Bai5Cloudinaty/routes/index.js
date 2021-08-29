@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-// npm install cloudinary 
+// npm install cloudinary --save
 // connect Cloudinary
 var cloudinary = require('cloudinary');
 cloudinary.config({
